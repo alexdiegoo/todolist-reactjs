@@ -7,11 +7,11 @@ function TodoList() {
   const [tasks, setTasks] = useState([
     {
       id: 0,
-      name: "Estudar Teoria Musical"
+      name: "Estudar React Js"
     },
     {
       id: 1,
-      name: "Fazer Almoço as 12h"
+      name: "Fazer Café"
     }
   ]);
 
